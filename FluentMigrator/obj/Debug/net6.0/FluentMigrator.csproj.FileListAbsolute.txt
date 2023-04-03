@@ -1,0 +1,7 @@
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.csproj.AssemblyReference.cache
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.GeneratedMSBuildEditorConfig.editorconfig
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.AssemblyInfoInputs.cache
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.AssemblyInfo.cs
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.csproj.CoreCompileInputs.cache
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.MvcApplicationPartsAssemblyInfo.cs
+F:\AhmadProjectSample\BackOffice\ConsoleApp1\FluentMigrator\obj\Debug\net6.0\FluentMigrator.MvcApplicationPartsAssemblyInfo.cache
